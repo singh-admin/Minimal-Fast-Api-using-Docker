@@ -15,4 +15,4 @@ This repository contains a simple implementation of an external API layer using 
 2. Install the necessary dependencies using `pip install -r requirements.txt`.
 
 ## Usage
-1. Run the Flask application using `python app.py`.
+1. Run the Flask application using `python run.py`.
